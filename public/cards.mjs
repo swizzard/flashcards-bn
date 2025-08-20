@@ -762,6 +762,11 @@ const cards = {
     { front: "নির্বাচন", back: "nirbacôn\nelection, selection" },
     { front: "শময়", back: "sɔmôy\ntime" },
     { front: "খুঁজে নিন", back: "khũje nin\nfind out" },
+    { front: "প্রতিষ্ঠান", back: "prɔtiʂʈhan\norganization, establishment" },
+    { front: "মালিকানাধীন", back: "malikalidhīn\nowned" },
+    { front: "মাল", back: "mal\ngoods, property" },
+    { front: "গ্রহণ", back: "grɔhɔɳɔ\nacceptance, receiving" },
+    { front: "গ্রহণ করা", back: "grɔhɔɳɔ kɔra\nto accept" },
   ],
   numerals: [
     { front: "১\nএক", back: "1" },
