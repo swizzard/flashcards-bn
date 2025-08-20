@@ -882,6 +882,12 @@ const cards = {
     { front: "কমবয়সী", back: "kɔmbɔysī\nyoung" },
     { front: "বয়স্ক", back: "bɔyɔskɔ\nold, elderly" }
   ],
+  "mango 4": [
+    { front: "কোথা", back: "kotha\nwhere" },
+    { front: "ব‍্যবহার করে", back: "byɔbɔhar kôre\nusing, by means of" },
+    { front: "অল্প", back: "ɔlpô\n(a) little" },
+    { front: "বোঝা", back: "bojha\nto understand" },
+  ],
   digraphs: [
     { front: "ন্থ", back: "ন + থ\nn + th" },
     { front: "দ্ধ", back: "দ + ধ\nd + dh" },
