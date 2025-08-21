@@ -710,7 +710,7 @@ const cards = {
     { front: "বাসা", back: "basa\nresidence" },
     { front: "সাইকেল", back: "saikel\nbicycle" },
     { front: "প্রতিবেশী", back: "prôtibeʃī\nneighbor" },
-    { front: "ভাই-এর", back: "bhai-er\nbrother's" },
+    { front: "ভাইয়ের", back: "bhaiyer\nbrother's" },
     { front: "ফটো", back: "phôʈo\nphoto" },
     { front: "পর", back: "pɔr\nafter (+ poss)" },
     { front: "তোলা", back: "tola\ntaking, capturing (a photo)" },
