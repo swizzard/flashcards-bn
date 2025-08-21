@@ -896,7 +896,7 @@ const cards = {
     { front: "নগর", back: "nôgɔr\ncity" },
     { front: "শহর", back: "ʃɔhɔr\ntown" },
     { front: "নিশ্চয়ই", back: "niʃcôyi\nof course" },
-    { front: "সহ", back: "sɔhɔ\too, also" },
+    { front: "সহ", back: "sɔhɔ\ntoo, also" },
     { front: "জন্মেছিলাম", back: "jɔnmechilam\ni was born" },
   ],
   digraphs: [
