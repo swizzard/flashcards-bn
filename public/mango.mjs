@@ -90,7 +90,7 @@ const mango = {
     { front: "মনস্তত্ব", back: "mɔnɔstɔʈvɔ\npsychology" },
     { front: "পদার্থবিদ‍্যা", back: "pɔdarθɔbidya\nphysics" },
     { front: "শিক্ষক", back: "ʃikʂôk\nteacher" },
-    { front: "ছাত্র", back: "chatrɔ\nteacher" },
+    { front: "ছাত্র", back: "chatrɔ\nstudent" },
     { front: "ভাগ‍্য", back: "bhagyɔ\nluck" },
   ],
 };
