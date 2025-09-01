@@ -120,5 +120,21 @@ const mango = {
     { front: "লেখা", back: "to write" },
     { front: "অক্ষর", back: "letter" },
   ],
+  "mango 2.2": [
+    { front: "দারাদারি", back: "bargain, deal" },
+    { front: "ধরা", back: "catch, hold" },
+    { front: "ট্রেন ধরা", back: "take the train" },
+    { front: "দাম", back: "price" },
+    { front: "কত", back: "how much" },
+    { front: "কম", back: "less" },
+    { front: "ছাড়", back: "discount" },
+    { front: "পারবে কী", back: "can you" },
+    { front: "বেসি", back: "much" },
+    { front: "দামি", back: "expensive" },
+    { front: "শস্তা", back: "cheap" },
+    { front: "কাছে", back: "near" },
+    { front: "এটুকুই", back: "that's all" },
+    { front: "প্লিজ", back: "please" },
+  ],
 };
 export default mango;

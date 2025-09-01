@@ -98,10 +98,10 @@ function main() {
   }
 
   function onReverseChange(e) {
-    if (e.target.value === back) {
-      currFront = back;
+    if (e.target.checked) {
+      $card.dataset.side = currFront = back;
     } else {
-      currFront = front;
+      $card.dataset.side = currFront = front;
     }
     setFront();
     displayCard();
