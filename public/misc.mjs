@@ -8,7 +8,7 @@ const misc = {
     { front: "৬", back: "ছয়" },
     { front: "৭", back: "সাত" },
     { front: "৮", back: "আট" },
-    { front: "৯", back: "নয়টি" },
+    { front: "৯", back: "নয়" },
     { front: "০", back: "শূন‍্য" },
     { front: "১০", back: "দশ" },
   ],
