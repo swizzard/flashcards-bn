@@ -25,12 +25,16 @@
         <div id="stackSelect"></div>
       </fieldset>
     </div>
-    <div id="card" data-side="front">
+    <div id="card">
       <div id="innerCard"></div>
     </div>
     <div id="buttons">
       <button type="button" id="incorrect">incorrect</button>
       <button type="button" id="correct">correct</button>
+    </div>
+    <div>
+      <label for="reverse">Reverse Mode</label>
+      <input type="checkbox" id="reverse" name="reverse" value="back"/>
     </div>
     <div id="about">
       <details>
@@ -41,6 +45,7 @@
         <p>what <code>correct</code> and <code>incorrect</code> mean is up to you</p>
         <p>when the current stack is emtpy, you will be alerted and it will reset</p>
         <p>switch between stacks using the <code>select chapter</code> radio buttons</p>
+        <p>the <code>Reverse Mode</code> checkbox toggles <code>Reverse Mode</code>, displaying the backs of cards first</p>
       </details>
       <details>
         <summary>about</summary>

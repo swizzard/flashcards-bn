@@ -11,7 +11,9 @@ function main() {
   const $innerCard = document.getElementById("innerCard");
   const $correct = document.getElementById("correct");
   const $incorrect = document.getElementById("incorrect");
+  const $reverse = document.getElementById("reverse");
 
+  let currFront = front;
   let currLabel;
   let currCard;
 
@@ -22,9 +24,11 @@ function main() {
   $card.addEventListener("click", onFlipCard);
   $correct.addEventListener("click", onCorrect);
   $incorrect.addEventListener("click", onIncorrect);
+  $reverse.addEventListener("change", onReverseChange);
 
   // start on 'all'
 
+  $card.dataset.side = currFront;
   $radios.querySelector(`input[value='${all}']`).click();
 
   function popCard() {
@@ -77,7 +81,7 @@ function main() {
   }
 
   function setFront() {
-    $card.dataset.side = front;
+    $card.dataset.side = currFront;
   }
 
   function flipCard() {
@@ -93,21 +97,16 @@ function main() {
     displayCard();
   }
 
-  // function copyStacks(sts) {
-  //   let copy = {};
-  //   for (const [label, st] of Object.entries(sts)) {
-  //     copy[label] = [...st];
-  //   }
-  //   return copy;
-  // }
-  //
-  // function mkIncorrects(sts) {
-  //   let incs = {};
-  //   for (const label of Object.keys(sts)) {
-  //     incs[label] = [];
-  //   }
-  //   return incs;
-  // }
+  function onReverseChange(e) {
+    if (e.target.value === back) {
+      currFront = back;
+    } else {
+      currFront = front;
+    }
+    setFront();
+    displayCard();
+  }
+
   function initStacks(cards) {
     const $radios = document.getElementById("stackSelect");
     const stacks = {};

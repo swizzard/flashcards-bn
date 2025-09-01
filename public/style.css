@@ -32,6 +32,7 @@ div#card {
   margin-top: 10px;
 }
 
+div#reverse,
 div#buttons,
 div#about {
   margin-top: 20px;
