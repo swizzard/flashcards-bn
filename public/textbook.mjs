@@ -34,7 +34,7 @@ const textbook = {
     { front: "উনি উমার বাবা?", back: "is he uma's father?" },
     {
       front: "না, উনি রিমির বাবা",
-      back: "na, uni rimir baba\nno, he is rimi's father",
+      back: "no, he is rimi's father",
     },
     { front: "আমরা নিইনি", back: "we did not take" },
   ],
@@ -89,7 +89,7 @@ const textbook = {
       front: "উনি আমার বোন নন",
       back: "she is not my sister",
     },
-    { front: "শুনুন!", back: "ʃunun!\nlisten!" },
+    { front: "শুনুন!", back: "listen!" },
     { front: "শনিবার", back: "(on) saturday" },
   ],
   3: [
@@ -101,7 +101,7 @@ const textbook = {
     { front: "মেয়ে", back: "girl, daughter" },
     { front: "খায়", back: "he/she eats" },
     { front: "রাখে", back: "he/she puts/keeps" },
-    { front: "খাওয়া-দাওয়া", back: "khaoya-daoya\nfood, meal" },
+    { front: "খাওয়া-দাওয়া", back: "food, meal" },
     { front: "শেখে", back: "he/she learns" },
     { front: "খুব", back: "very" },
     { front: "অসুখ", back: "illness" },
@@ -290,7 +290,7 @@ const textbook = {
     },
     {
       front: "আমটা সুন্দর, কিন্তু টক",
-      back: "amʈa sundôr, kintu ʈɔk\nthe mango is beautiful, but sour",
+      back: "the mango is beautiful, but sour",
     },
   ],
   7: [
@@ -371,7 +371,7 @@ const textbook = {
     },
     {
       front: "থাম, থাম - গাড়ি আসছে!",
-      back: "thamô, thamô - gaɽi asche\nstop, stop - there's a car coming!",
+      back: "stop, stop - there's a car coming!",
     },
     { front: "দিদিকে ডাক", back: "call (your) elder sister" },
     { front: "ওটা ফেলে দিওনা", back: "don't throw that away" },
@@ -419,7 +419,7 @@ const textbook = {
       back: "can you speak bengali?",
     },
     { front: "আপনি কেমন আছেন?", back: "how are you?" },
-    { front: "টাকা-পয়সা", back: "ʈaka-pɔysa\nmoney" },
+    { front: "টাকা-পয়সা", back: "money" },
     {
       front: "আপনাকে অপেক্ষা করতে হবে",
       back: "you must wait",
@@ -482,7 +482,7 @@ const textbook = {
     },
     {
       front: "পড়াশোনা না করলে, পরীক্ষায় পাশ করতে পারবেনা",
-      back: "pɔɽaʃona na kôrle, pôrīkʂay paʃ kôrte parbena\nif you don't study, you won't pass the exam",
+      back: "if you don't study, you won't pass the exam",
     },
   ],
   10: [
@@ -497,7 +497,7 @@ const textbook = {
     { front: "আমি ভুলে গেছি", back: "i've forgotten" },
     { front: "ভাত", back: "(cooked) rice" },
     { front: "কি হচ্ছে?", back: "what is happening?" },
-    { front: "চুপ কর!", back: "cup kɔrô!\nbe quiet!" },
+    { front: "চুপ কর!", back: "be quiet!" },
     { front: "ভদ্রলোক", back: "gentleman" },
     { front: "চশমা", back: "spectacles" },
     { front: "চৈত্র মাস", back: "the month of caitra" },
@@ -509,7 +509,7 @@ const textbook = {
       front: "ওর ভাইকে চিনিনা",
       back: "i don't know his/her brother",
     },
-    { front: "চল, বেড়াতে যাই", back: "cɔlô, bæɽate y̌ai\ncome, let's go out" },
+    { front: "চল, বেড়াতে যাই", back: "come, let's go out" },
     { front: "উনি টাকা দিচ্ছেন", back: "he/she is paying" },
     {
       front: "ভদ্রলোককে চা দাও",
@@ -517,7 +517,7 @@ const textbook = {
     },
     {
       front: "ভাত না খেয়ে, লুচি খান",
-      back: "bhat na keye, luci khan\ndon't eat rice, eat lucis",
+      back: "don't eat rice, eat lucis",
     },
     {
       front: "কয় চামচ চিনি দেব?",
@@ -657,11 +657,11 @@ const textbook = {
     },
     {
       front: "রোদে ঘুরবেননা - মাথা ধরবে",
-      back: "rode ghurbenna - matha dhôrbe\ndon't wander in the sun - you'll get a headache",
+      back: "don't wander in the sun - you'll get a headache",
     },
     {
       front: "ওই বাড়ি থেকে ধোঁয়া আসছে!",
-      back: "oi baɽi theke dhõya asche!\nthere's smoke coming from that house!",
+      back: "there's smoke coming from that house!",
     },
     {
       front: "এতক্ষণ ঘুমচ্ছিলে?",
@@ -682,7 +682,7 @@ const textbook = {
     },
     {
       front: "এত সুখ আমার হৃদয়ে!",
-      back: "ætô sukh amar hɾ̥dɔye!\nsuch joy in my heart!",
+      back: "such joy in my heart!",
     },
     {
       front: "আজ দিনটা একেবারে বৃথা গেল",
