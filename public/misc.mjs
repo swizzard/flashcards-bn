@@ -135,6 +135,7 @@ const misc = {
     { front: "গ্রহণ করা", back: "to accept" },
     { front: "জানা", back: "to know (saber)" },
     { front: "চেনা", back: "to know (conocer)" },
+    { front: "গল্প", back: "story, tale"},
   ],
 };
 export default misc;

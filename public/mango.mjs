@@ -159,6 +159,8 @@ const mango = {
   { front: "স্নানের পোষাক", back: "bathing suit"},
   { front: "স্নান", back: "shower, bath(ing)"},
   { front: "পায়জামা", back: "pajamas"},
+  { front: "কাপড় ধোযা", back: "to wash clothes"},
+  { front: "দেরাজ", back: "closet"},
   ],
 };
 export default mango;
