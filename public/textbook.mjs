@@ -397,7 +397,7 @@ const textbook = {
       front: "ট্রেন কখন ছাড়বে?",
       back: "when will the train leave?",
     },
-    { front: "গরুর গাড়ি", back: "bচালullock-cart" },
+    { front: "গরুর গাড়ি", back: "bullock-cart" },
     { front: "মোটর গাড়ি", back: "motor car" },
     { front: "ডাল আর তরকারি", back: "dal and vegetables" },
     { front: "একটা বড় বাড়ি", back: "a big house" },
