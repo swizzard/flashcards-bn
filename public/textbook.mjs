@@ -1,5 +1,5 @@
 const textbook = {
-  1: [
+  "radice 1": [
     { front: "আম", back: "mango" },
     { front: "মা", back: "mother" },
     { front: "নাম", back: "name" },
@@ -38,7 +38,7 @@ const textbook = {
     },
     { front: "আমরা নিইনি", back: "we did not take" },
   ],
-  2: [
+  "radice 2": [
     {
       front: "আমি শনিবার আসবোনা",
       back: "i shall not come (on) saturday",
@@ -92,7 +92,7 @@ const textbook = {
     { front: "শুনুন!", back: "listen!" },
     { front: "শনিবার", back: "(on) saturday" },
   ],
-  3: [
+  "radice 3": [
     { front: "খাবে", back: "he/she will eat" },
     { front: "সে", back: "he, she" },
     { front: "এসে", back: "having come" },
@@ -133,7 +133,7 @@ const textbook = {
       back: "he/she will not come (on) tuesday",
     },
   ],
-  4: [
+  "radice 4": [
     { front: "কে?", back: "who?" },
     { front: "কি?", back: "what?" },
     { front: "একে", back: "him, her" },
@@ -172,7 +172,7 @@ const textbook = {
       back: "they all went on friday",
     },
   ],
-  5: [
+  "radice 5": [
     { front: "এঁকে", back: "him, her" },
     { front: "এঁরা", back: "they" },
     { front: "এঁদের", back: "their" },
@@ -231,7 +231,7 @@ const textbook = {
       back: "they don't eat fish or meat at all",
     },
   ],
-  6: [
+  "radice 6": [
     { front: "তোমার", back: "your" },
     { front: "তুমি", back: "you" },
     { front: "তোমাকে", back: "(to) you" },
@@ -293,7 +293,7 @@ const textbook = {
       back: "the mango is beautiful, but sour",
     },
   ],
-  7: [
+  "radice 7": [
     { front: "যা", back: "which" },
     { front: "যে", back: "who" },
     { front: "জমিদার", back: "landlord" },
@@ -352,7 +352,7 @@ const textbook = {
       back: "they've just gone",
     },
   ],
-  8: [
+  "radice 8": [
     {
       front: "আমার বড় বাক্সটা কোথায়?",
       back: "where is my big suitcase?",
@@ -408,7 +408,7 @@ const textbook = {
     { front: "কথা", back: "word, topic" },
     { front: "মাথা", back: "head" },
   ],
-  9: [
+  "radice 9": [
     { front: "পা", back: "foot, leg" },
     { front: "পাথ", back: "path" },
     { front: "পরে", back: "after(wards)" },
@@ -485,7 +485,7 @@ const textbook = {
       back: "if you don't study, you won't pass the exam",
     },
   ],
-  10: [
+  "radice 10": [
     { front: "চা", back: "tea" },
     { front: "চাল", back: "(uncooked) rice" },
     { front: "চাবি", back: "key" },
@@ -554,7 +554,7 @@ const textbook = {
       back: "(i) don't have good eyesight",
     },
   ],
-  11: [
+  "radice 11": [
     { front: "ঝোল", back: "the sauce of a curry" },
     { front: "ঝড়", back: "storm" },
     { front: "ঝি", back: "maidservant, charlady" },
@@ -620,7 +620,7 @@ const textbook = {
       back: "the boatman was not willing to set out",
     },
   ],
-  12: [
+  "radice 12": [
     { front: "ঘি", back: "ghee" },
     { front: "ঘাম", back: "sweat" },
     { front: "ঘাস", back: "grass" },
@@ -697,7 +697,7 @@ const textbook = {
       back: "the horse is pulling very slowly",
     },
   ],
-  14: [
+  "radice 14": [
     { front: "আব্বা", back: "dad" },
     { front: "আম্মা", back: "mom" },
     { front: "হ্যাঁ", back: "yes" },
