@@ -139,6 +139,10 @@ const misc = {
     { front: "রকম", back: "kind, manner, sort, genre" },
     { front: "খাঁটি", back: "pure" },
     { front: "দুধ", back: "milk" },
+    { front: "কাশি", back: "cough" },
+    { front: "হাঁচা", back: "to sneeze" },
+    { front: "পণ্য", back: "goods, merchandise (n), for sale (adj)" },
+    { front: "ঢেকে ফেলা", back: "to cover up" },
   ],
 };
 export default misc;
