@@ -182,7 +182,7 @@ const mango = {
     { front: "সম্ভবত", back: "probably" },
     { front: "তবে", back: "but" },
     { front: "ঘন্টা", back: "hour" },
-    { front: "মধ্যে", back: "(in) between, among, within, amid (+ poss)" },
+    { front: "মধ্যে", back: "(in) between, among, within, amid (+ poss.)" },
     { front: "বন্ধ", back: "closed, shut" },
     { front: "হারানো", back: "to lose, misplace" },
     { front: "ভুলে যাওয়া", back: "to forget" },
@@ -190,6 +190,7 @@ const mango = {
     { front: "জলখাবার", back: "snack" },
     { front: "মুদীর দোকান", back: "grocery store" },
     { front: "কাপুড়ের দোকান", back: "clothing store" },
+    { front: "কত", back: "how much (interrog.)" },
   ],
 };
 export default mango;
