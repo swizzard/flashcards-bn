@@ -256,6 +256,18 @@ const mango = {
     { front: "গ্রিষ্মকলে", back: "in the summer" },
     { front: "ভালবাসা", back: "to love, to like" },
     { front: "বিচে জাওয়া", back: "to go to the beach" },
+    { front: "শীত", back: "winter" },
+    { front: "বসন্ত", back: "spring" },
+    { front: "শরত্", back: "fall, autumn" },
+    { front: "পার্ক", back: "park" },
+    { front: "সূর্য", back: "sun" },
+    { front: "রোদ ঝলমলে", back: "sunny" },
+    { front: "বরফ", back: "snow" },
+    { front: "মেঘলা", back: "cloudy" },
+    { front: "ঠান্ডা", back: "cold" },
+    { front: "এটা গরম", back: "it's hot" },
+    { front: "ভ্যাপসা", back: "humid" },
+    { front: "ডোবা", back: "pool" },
   ],
 };
 export default mango;
