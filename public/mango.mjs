@@ -242,7 +242,7 @@ const mango = {
     { front: "কয়েক ঘন্টা আগে", back: "a few hours ago" },
     { front: "প্রথম দিকে", back: "earlier" },
     { front: "আগে", back: "ago" },
-    { front: "তাড়াতাড়ি", back: "soon, quickly" },
+    { front: "তাড়াতাড়ি", back: "soon, quickly, early" },
     { front: "ওজন", back: "weights" },
     { front: "তোলা", back: "to raise, lift" },
     { front: "তুমি আজ", back: "you're on!" },
@@ -268,6 +268,18 @@ const mango = {
     { front: "এটা গরম", back: "it's hot" },
     { front: "ভ্যাপসা", back: "humid" },
     { front: "ডোবা", back: "pool" },
+    { front: "মে", back: "may (the month)" },
+  ],
+  "mango 3.3": [
+    { front: "সপ্তাহের শেষে", back: "weekend" },
+    { front: "রোববার", back: "sunday" },
+    { front: "জন্মদিন", back: "birthday" },
+    { front: "দারুন!", back: "great!" },
+    { front: "পালন", back: "celebrate" },
+    { front: "উচিত", back: "proper, correct, should (+inf. +poss.)" },
+    { front: "চলো", back: "let's" },
+    { front: "শুক্রবার", back: "friday" },
+    { front: "বা", back: "or" },
   ],
 };
 export default mango;
