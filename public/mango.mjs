@@ -194,7 +194,7 @@ const mango = {
   ],
   "mango 2.5": [
     { front: "বিচ", back: "beach" },
-    { front: "ভান", back: "right (direction)" },
+    { front: "ডান", back: "right (direction)" },
     { front: "বাম", back: "left (direction)" },
     { front: "দিক", back: "-ward/-ern/-hand side" },
     { front: "ভান দিক", back: "right (side)" },
