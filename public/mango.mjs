@@ -288,7 +288,7 @@ const mango = {
     { front: "এখন", back: "now" },
     { front: "সকালের জলখাবার", back: "brunch" },
     { front: "বার্ষিকী", back: "anniversary" },
-    { front: "একযেয়ে", back: "dull" },
+    { front: "একঘেয়ে", back: "dull" },
     { front: "বিরক্তিকর", back: "boring" },
     { front: "আনন্দ", back: "fun" },
     { front: "শান্ত", back: "quiet" },
