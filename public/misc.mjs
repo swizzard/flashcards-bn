@@ -95,6 +95,7 @@ const misc = {
     { front: "ঢেকে ফেলা", back: "to cover up" },
     { front: "আত্মসাৎকারী", back: "embezzler" },
     { front: "স্বত্বাধারী", back: "proprietor" },
+    { front: "পাওয়া", back: "to get, to receive" },
   ],
   "week days": [
     { front: "রবিবার", back: "sunday" },
