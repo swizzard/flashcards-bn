@@ -281,7 +281,7 @@ const mango = {
     { front: "শুক্রবার", back: "friday" },
     { front: "বা", back: "or" },
     { front: "বয়স", back: "age" },
-    { front: "তোমার বয়ম কত?", back: "how old are you?" },
+    { front: "তোমার বয়স কত?", back: "how old are you?" },
     { front: "বছর", back: "year" },
     { front: "গোপনীয়", back: "secret" },
     { front: "নাচ", back: "dance, dancing" },
