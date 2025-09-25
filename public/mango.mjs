@@ -303,7 +303,7 @@ const mango = {
     { front: "রাত", back: "night" },
     { front: "কখন", back: "when" },
     { front: "শুরু হাওয়া", back: "to start, commence" },
-    { front: "টাতে", back: "o'clock" },
+    { front: "টা", back: "o'clock" },
     { front: "রাত 9 টাতে", back: "9:00pm" },
   ],
 };
