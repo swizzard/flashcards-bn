@@ -322,5 +322,21 @@ const mango = {
     { front: "সাহায্য", back: "help" },
     { front: "পানীয়", back: "drink, beverage" },
   ],
+  "mango 3.5": [
+    { front: "খুবই", back: "so (emphatic)" },
+    { front: "মজা করা", back: "to have fun" },
+    { front: "মনে আছে", back: "remember" },
+    { front: "যখন", back: "(that time) when" },
+    { front: "পাহাড়", back: "mountain" },
+    { front: "হেঁটে বেড়ানোটা", back: "hike" },
+    { front: "ভাল লাগা", back: "to like (+ poss.)" },
+    { front: "মিস করা", back: "to miss (in absence)" },
+    { front: "ইন্ডিয়া", back: "india" },
+    { front: "ফেবা", back: "to return, to turn" },
+    { front: "কবে", back: "when (interrog., days+)" },
+    { front: "পরের বছর", back: "next year" },
+    { front: "আশাকরি", back: "hopefully" },
+    { front: "গতকাল", back: "yesterday" },
+    ],
 };
 export default mango;
