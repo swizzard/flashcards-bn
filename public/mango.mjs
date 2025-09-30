@@ -337,6 +337,14 @@ const mango = {
     { front: "পরের বছর", back: "next year" },
     { front: "আশাকরি", back: "hopefully" },
     { front: "গতকাল", back: "yesterday" },
-    ],
+    { front: "কতদিন", back: "how long (interrog.)" },
+    { front: "থেকে", back: "since (+ obj.)" },
+    { front: "চলে যাওয়া", back: "to leave, to go away" },
+    { front: "মধ্যে", back: "in (hence) (+ poss.)" },
+    { front: "মাস", back: "month" },
+    { front: "ফিরে আসা", back: "to come back, to return" },
+    { front: "আশাকরা", back: "to expect, to hope/look for, to wish" },
+    { front: "মনে করা", back: "to think" },
+  ],
 };
 export default mango;
