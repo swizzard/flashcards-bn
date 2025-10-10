@@ -200,5 +200,61 @@ const misc = {
     { front: "শুক্রবার", back: "friday" },
     { front: "শনিবার", back: "saturday" },
   ],
+  postpositions: [
+    { front: "অনুরুপ", back: "like, similar to, as (+ gen.)" },
+    {
+      front: "আপেক্ষা",
+      back: "than, compared with (+ gen. w/hum, + gen. or + nom. w/non-hum, shadhu)",
+    },
+    {
+      front: "আগে",
+      back: "before, in front of, previous to (+ gen., also adv.)",
+    },
+    { front: "আগে থেকে", back: "since before (+ gen.)" },
+    { front: "আশেপাশে", back: "by, alongside, near, around (+ gen.)" },
+    {
+      front: "উদ্দেশে",
+      back: "toward, in the direction of, for the purpose of (+ gen.)",
+    },
+    {
+      front: "উদ্দেশ্যে",
+      back: "aimed at, for the purpose of, in order to, with the intention of",
+    },
+    {
+      front: "উপর",
+      back: "on, on top of, above, over, upon (+ gen., also adv.)",
+    },
+    {
+      front: "উপরে",
+      back: "on, on top of, above, over, upon (+ gen., also adv.)",
+    },
+    {
+      front: "ওপর",
+      back: "on, on top of, above, over, upon (+ gen., also adv.)",
+    },
+    {
+      front: "ওপরে",
+      back: "on, on top of, above, over, upon (+ gen., also adv.)",
+    },
+    {
+      front: "উপর দিয়ে",
+      back: "on, on top of, above, over, by way of (+ gen., also adv.)",
+    },
+    {
+      front: "ওপর দিয়ে",
+      back: "on, on top of, above, over, by way of (+ gen., also adv.)",
+    },
+    { front: "কথা", back: "about, concerning (+ gen.)" },
+    { front: "কাছ থেকে", back: "from (a human, + gen.)" },
+    { front: "কাছাকাছি", back: "around, near (+ gen)" },
+    {
+      front: "কাছে",
+      back: "by, at, near, to, from, with, at the home of (+ gen., also adv.)",
+    },
+    { front: "খাতিরে", back: "for the sake of, in the interest of" },
+    { front: "চাইতে", back: "than, from, compared with (+ gen.)" },
+    { front: "চারদিকে", back: "all arorund (+ gen.)" },
+    { front: "চারিপাশে", back: "all around (+ gen.)" },
+  ],
 };
 export default misc;
