@@ -200,5 +200,326 @@ const misc = {
     { front: "শুক্রবার", back: "friday" },
     { front: "শনিবার", back: "saturday" },
   ],
+  postpositions: [
+    { front: "অনুরুপ", back: "like, similar to, as (+ gen.)" },
+    {
+      front: "আপেক্ষা",
+      back: "than, compared with (+ gen. w/hum, + gen. or + nom. otherwise, shadhu)",
+    },
+    {
+      front: "আগে",
+      back: "before, in front of, previous to (+ gen., also adv.)",
+    },
+    { front: "আগে থেকে", back: "since before (+ gen.)" },
+    { front: "আশেপাশে", back: "by, alongside, near, around (+ gen.)" },
+    {
+      front: "উদ্দেশে",
+      back: "toward, in the direction of, for the purpose of (+ gen.)",
+    },
+    {
+      front: "উদ্দেশ্যে",
+      back: "aimed at, for the purpose of, in order to, with the intention of (+ gen.)",
+    },
+    {
+      front: "উপর",
+      back: "on, on top of, above, over, upon (+ gen., also adv.)",
+    },
+    {
+      front: "উপরে",
+      back: "on, on top of, above, over, upon (+ gen., also adv.)",
+    },
+    {
+      front: "ওপর",
+      back: "on, on top of, above, over, upon (+ gen., also adv.)",
+    },
+    {
+      front: "ওপরে",
+      back: "on, on top of, above, over, upon (+ gen., also adv.)",
+    },
+    {
+      front: "উপর দিয়ে",
+      back: "on, on top of, above, over, by way of (+ gen., also adv.)",
+    },
+    {
+      front: "ওপর দিয়ে",
+      back: "on, on top of, above, over, by way of (+ gen., also adv.)",
+    },
+    { front: "কথা", back: "about, concerning (+ gen.)" },
+    { front: "কাছ থেকে", back: "from (a human, + gen.)" },
+    { front: "কাছাকাছি", back: "around, near (+ gen)" },
+    {
+      front: "কাছে",
+      back: "by, at, near, to, from, with, at the home of (+ gen., also adv.)",
+    },
+    { front: "খাতিরে", back: "for the sake of, in the interest of" },
+    { front: "চাইতে", back: "than, from, compared with (+ gen.)" },
+    { front: "চারদিকে", back: "all arorund (+ gen.)" },
+    { front: "চারিদিকে", back: "all around (+ gen.)" },
+    { front: "চারিপাশে", back: "around (place, + gen.)" },
+    { front: "তরে", back: "for (+ gen., shadhu)" },
+    { front: "তলে", back: "beneath, at the base of (+ gen.)" },
+    { front: "তুল্য", back: "like, comparable to, equal to (+ gen.)" },
+    {
+      front: "থেকে",
+      back: "from (a place/time, optionally + gen.), than, compared with, compared to (+ gen.)",
+    },
+    {
+      front: "দরুন",
+      back: "for, on account of, because of, owing to, due to, for the sake of (+ gen.)",
+    },
+    {
+      front: "দিকে",
+      back: "towards (time, + gen.), to, in the direction of, at (a person/thing, + gen.)",
+    },
+    {
+      front: "দারা",
+      back: "through, by, by means of (+ gen. w/hum, optionally + gen. w/non-hum)",
+    },
+    { front: "নিকট", back: "near (a human, + gen., shadhu)" },
+    { front: "নিকটে", back: "near (a human, + gen., shadhu)" },
+    { front: "নিকট হইতে", back: "from (a human, + gen., shadhu)" },
+    { front: "নিচ দিয়ে", back: "(via) below, underneath (+ gen.)" },
+    { front: "নিচ পর্যন্ত", back: "down to" },
+    { front: "নিচে", back: "down, below, underneath (+ gen., also adv.)" },
+    {
+      front: "নিমিত্ত",
+      back: "for, on account of, due to, in order to, because of (+ gen.)",
+    },
+    {
+      front: "নিমিত্তে",
+      back: "for, on account of, due to, in order to, because of (+ gen.)",
+    },
+    { front: "ন্যায়", back: "like, as, similar to (+ gen.)" },
+    { front: "পক্ষে", back: "by, with, for (+ gen.)" },
+    { front: "পর", back: "after, later, subsequent to (+ gen., also adv.)" },
+    { front: "পরে", back: "after, later, subsequent to (+ gen., also adv.)" },
+    { front: "পর থেকে", back: "since, after (+ gen.)" },
+    { front: "পরিবর্তে", back: "instead of, in place of (+ gen.)" },
+    { front: "পশ্চাতে", back: "behind, in back of (+ gen., shadhu)" },
+    { front: "পানে", back: "to, towards, at (+ gen.)" },
+    {
+      front: "পাশ দিয়ে",
+      back: "by (the side of), (via) one side, alongside (+ gen., also adv.)",
+    },
+    { front: "পাশপাশি", back: "by, near (+ gen.)" },
+    { front: "পাশে", back: "besides, alongside, next to (+ gen., also adv.)" },
+    { front: "পিছনে", back: "behind, back, after (+ gen., also adv.)" },
+    { front: "পেছনে", back: "behind, back, after (+ gen., also adv.)" },
+    { front: "পিছে", back: "behind, back, after (+ gen., also adv.)" },
+    { front: "পিছন দিয়ে", back: "(via) the back, behind (+ gen., also adv.)" },
+    { front: "পেছন দিয়ে", back: "(via) the back, behind (+ gen., also adv.)" },
+    { front: "পুর্বে", back: "before, prior to (+ gen.)" },
+    {
+      front: "প্রতি",
+      back: "to, towards (a person or thing), for, against (+ gen.)",
+    },
+    {
+      front: "প্রসঙ্গে",
+      back: "pertaining to, in the context of, with respect to, concerning (+ gen. w/hum, + gen. or nom. otherwise)",
+    },
+    { front: "ফলে", back: "as a result of (+ gen.)" },
+    { front: "বদলে", back: "instead of, in place of (+ gen.)" },
+    {
+      front: "বাইরে",
+      back: "out, outside of, beyond, away (+ gen., also adv.)",
+    },
+    { front: "বার", back: "out, outside of, beyond, away (+ gen., also adv.)" },
+    {
+      front: "বাহিরে",
+      back: "out, outside of, beyond, away (+ gen., also adv., shadhu)",
+    },
+    {
+      front: "বাবদ",
+      back: "on account of, due to (+ gen. w/hum., + gen. or nom. otherwise)",
+    },
+    {
+      front: "বাবদে",
+      back: "on account of (due to (+ gen. w/hum., + gen. or nom. otherwise)",
+    },
+    {
+      front: "বিপক্ষে",
+      back: "against, in opposition to, on the opposing side of (+ gen.)",
+    },
+    { front: "বিরুদ্ধে", back: "against, in opposition to (+ gen.)" },
+    {
+      front: "বিষয়ে",
+      back: "about, concerning, on the matter of, with respect to (+ gen. w/hum., + gen. or nom. otherwise)",
+    },
+    {
+      front: "ভিতর",
+      back: "in, inside of, within, into, between, among (+ gen., also adv.)",
+    },
+    {
+      front: "ভেতর",
+      back: "in, inside of, within, into, between, among (+ gen., also adv.)",
+    },
+    {
+      front: "ভিতবে",
+      back: "in, inside of, within, into, between, among (+ gen., also adv.)",
+    },
+    {
+      front: "ভেতবে",
+      back: "in, inside of, within, into, between, among (+ gen., also adv.)",
+    },
+    { front: "ভেতর থেকে", back: "from inside (+ gen., also adv.)" },
+    {
+      front: "ভিতর দিয়ে",
+      back: "through, (via) within, inside (+ gen., also adv.)",
+    },
+    {
+      front: "ভেতর দিয়ে",
+      back: "through, (via) within, inside (+ gen., also adv.)",
+    },
+    {
+      front: "মত",
+      back: "like, similar to, satisfying, suiting, equaling, worthy of (w/verbal noun), for (a period of time) (+ gen., also adv.)",
+    },
+    {
+      front: "মতো",
+      back: "like, similar to, satisfying, suiting, equaling, worthy of (w/verbal noun), for (a period of time) (+ gen., also adv.)",
+    },
+    {
+      front: "মতন",
+      back: "like, similar to, satisfying, suiting, equaling, worthy of (w/verbal noun), for (a period of time) (+ gen., also adv.)",
+    },
+    {
+      front: "মধ্যে",
+      back: "between, among, in the midst of, in, into (+ gen.)",
+    },
+    {
+      front: "মাঝে",
+      back: "between, among, in the midst of, in, into (+ gen.)",
+    },
+    {
+      front: "মধ্য দিয়ে",
+      back: "(via) the middle, through, between, among, in the midst of, in, into, by means of (+ gen., also adv.)",
+    },
+    { front: "মাঝ দিয়ে", back: "through, by means of (+ gen., also adv.)" },
+    { front: "মধ্যে দিয়ে", back: "through, by means of (+ gen., also adv.)" },
+    { front: "মাঝখানে", back: "in, in the middle of (+ gen., also adv.)" },
+    { front: "মাধ্যমে", back: "through the medium of, by (+ gen.)" },
+    {
+      front: "মারফত",
+      back: "by means of, through, per, via (+ gen. w/hum., + gen. or nom. otherwise)",
+    },
+    {
+      front: "মারফতে",
+      back: "by means of, through, per, via (+ gen. w/hum., + gen. or nom. otherwise)",
+    },
+    { front: "সঙ্গে", back: "with, in the company of (+ gen., also adv.)" },
+    { front: "সাথে", back: "with, in the company of (+ gen., also adv.)" },
+    { front: "সঙ্গে সঙ্গে", back: "as, simultaneously with (+ gen.)" },
+    {
+      front: "সম্পর্কে",
+      back: "about, concerning, in relation to, with respect to (+ gen. w/hum., + gen. or nom. otherwise)",
+    },
+    {
+      front: "সম্বন্ধে",
+      back: "about, concerning, in relation to, with respect to (+ gen. w/hum., + gen. or nom. otherwise)",
+    },
+    { front: "সহিত", back: "with (+ gen., shadhu)" },
+    { front: "সামনে", back: "in front of, before, ahead (+ gen., also adv.)" },
+    {
+      front: "সামনে দিয়ে",
+      back: "in front of, before, ahead (+ gen., also adv.)",
+    },
+    {
+      front: "হইতে",
+      back: "from (+ gen. w/hum. prons., + gen. or nom. otherwise, shadhu)",
+    },
+    {
+      front: "হতে",
+      back: "from (+ gen. w/hum. prons., + gen. or nom. otherwise, shadhu)",
+    },
+    {
+      front: "হয়ে",
+      back: "on behalf of (a person, + gen.), via, by way of (a place), as (+ gen. or nom.)",
+    },
+    { front: "অনুযায়ী", back: "according to, depending upon (+ nom.)" },
+    {
+      front: "অনুসারে",
+      back: "according to, consequent upon, in imitation of (+ nom.)",
+    },
+    {
+      front: "অন্তর",
+      back: "within, at the heart of (w/time expressions), after an interval of (one), every (> one) (+ nom.)",
+    },
+    {
+      front: "অন্তরে",
+      back: "within, at the heart of (w/time expressions), after an interval of (one), every (> one) (+ nom.)",
+    },
+    { front: "অবধি", back: "until, up to, since, from, even (+ nom.)" },
+    { front: "অব্দি", back: "until, up to, since, from, even (+ nom.)" },
+    {
+      front: "উপলক্ষে",
+      back: "on account of, for the purpose of, on the pretext of (+ nom.)",
+    },
+    { front: "কর্তৃক", back: "by (+ nom.)" },
+    {
+      front: "ছাড়া",
+      back: "without, except for, except, but for, but, besides (+ nom.)",
+    },
+    { front: "ছেড়ে", back: "out of, away from (+ nom.)" },
+    {
+      front: "দিয়া",
+      back: "from, through, by way of, in, with, by (material), by means of (a thing) (+ obj. w/hum., + nom. otherwise",
+    },
+    { front: "ধরিয়া", back: "during (+ nom., shadhu)" },
+    {
+      front: "ধরে",
+      back: "for, during (w/expressions of time), by, by means of, along, taking (w/streets) (+ nom.)",
+    },
+    {
+      front: "নাগাত",
+      back: "about, nearly, around, by (a certain time), until, up to (+ nom.)",
+    },
+    {
+      front: "নাগাদ",
+      back: "about, nearly, around, by (a certain time), until, up to (+ nom.)",
+    },
+    {
+      front: "নিয়া",
+      back: "with, in the company of, concerning, about, on the subject of (+ obj. w/hum., + nom. otherwise)",
+    },
+    {
+      front: "পর্যন্ত",
+      back: "since, from, until, up to, towards (time and place), even (+ nom.)",
+    },
+    { front: "বই", back: "without, except, other than (+ nom.)" },
+    { front: "বাদে", back: "without, except for, excluding, after (+ nom.)" },
+    { front: "বেয়ে", back: "by, by way of, along (+ nom.)" },
+    {
+      front: "ব্যতীত",
+      back: "except, without, other than, but, save, excluding (+ nom.)",
+    },
+    { front: "ভিন্ন", back: "except, without, other than (+ nom.)" },
+    { front: "যাবত", back: "from, since, until, during, for (+ nom.)" },
+    {
+      front: "লইয়া",
+      back: "with, in the company of, concerning, about, on the subject of (+ nom.)",
+    },
+    {
+      front: "সংক্রান্ত",
+      back: "pertaining to, as regards, concerning, in connection with (+ nom.)",
+    },
+    {
+      front: "সত্ত্বেও",
+      back: "in spite of, desppite, notwithstanding (+ nom.)",
+    },
+    { front: "সম্বন্ধে", back: "concerning, about (+ nom.)" },
+    { front: "হইতে", back: "from, since (+ nom.)" },
+    {
+      front: "হল",
+      back: "since, ago, for, it has been (w/length of time) (+ nom.)",
+    },
+    {
+      front: "হয়",
+      back: "since, ago, for, it has been (w/length of time) (+ nom.)",
+    },
+    { front: "হিসাবে", back: "as, in the capacity of (+ nom.)" },
+    { front: "হিসেবে", back: "as, in the capacity of (+ nom.)" },
+    { front: "বিনা", back: "without (+ loc., prepositional)" },
+    { front: "বিনে", back: "without (+ loc., prepositional)" },
+  ],
 };
 export default misc;
