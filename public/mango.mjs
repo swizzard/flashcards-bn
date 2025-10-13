@@ -413,6 +413,23 @@ const mango = {
     { front: "খিদে", back: "hunger" },
     { front: "খিদা", back: "hunger" },
     { front: "নোন্তা", back: "salty" },
+    { front: "গলমবিচ", back: "pepper"},
+    { front: "মশলাদার", back: "spicy"},
+    { front: "মাছ", back: "fish"},
+    { front: "গম", back: "wheat"},
+    { front: "আঠা", back: "gluten"},
+    { front: "শব্দ", back: "sound"},
+    { front: "স্পর্শ", back: "touch"},
+    { front: "অনুভুতি", back: "feel"},
+    { front: "স্বাদ", back: "taste"},
   ],
+  "mango 4.4": [
+  { front: "প্লিজ", back: "please (interjection)"},
+  { front: "প্রয়োজন", back: "need (of/for + gen.)"},
+  { front: "সমস্যা", back: "problem, matter"},
+  { front: "খুঁজে পাওয়া", back: "to find, to be able to find (chiefly neg.)"},
+  { front: "চুরি", back: "theft"},
+  { front: "হয়ত", back: "maybe"},
+  ]
 };
 export default mango;
