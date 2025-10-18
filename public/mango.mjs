@@ -430,6 +430,20 @@ const mango = {
   { front: "খুঁজে পাওয়া", back: "to find, to be able to find (chiefly neg.)"},
   { front: "চুরি", back: "theft"},
   { front: "হয়ত", back: "maybe"},
+  { front: "শেষ", back: "end, remainder, butt, last place, most recently"},
+  { front: "সাবওয়ে", back: "subway"},
+  { front: "পুলিশ শ্টেশন", back: "police station"},
+  { front: "রিপোর্ট", back: "report"},
+  { front: "লেখানো", back: "to file, to make written"},
+  { front: "কিভাবে", back: "how (interrog.)"},
+  { front: "কেন", back: "why (interrog.)"},
+  { front: "বিষয়", back: "issue, subject, topic, object"},
+  { front: "ঘটনা", back: "incident, event"},
+  { front: "যোগাযোগ", back: "contact, communication"},
+  { front: "হারানো", back: "to misplace, to miss"},
+  { front: "টয়লেট", back: "restroom"},
+  { front: "কেন", back: "which (interrog.)"},
+  { front: "নিশ্চিত", back: "cerain(ly), doubtless, sure(ly), sure thing"},
   ]
 };
 export default mango;
