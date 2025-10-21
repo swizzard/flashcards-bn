@@ -448,5 +448,18 @@ const mango = {
     { front: "কেন", back: "which (interrog.)" },
     { front: "নিশ্চিত", back: "cerain(ly), doubtless, sure(ly), sure thing" },
   ],
+  "mango 4.5": [
+  { front: "দুর্ঘটনা", back: "accident"},
+  { front: "ঘটা", back: "to occur, to happen"},
+  { front: "আহত হওয়া", back: "to be injured"},
+  { front: "কেউ", back: "someone, anyone"},
+  { front: "বিধা দেওয়া", back: "to block, to obstruct"},
+  { front: "বাধা", back: "obstacle, hindrance"},
+  { front: "হাইওয়ে", back: "highway"},
+  { front: "ডাকাতি", back: "robbery"},
+  { front: "এম্বুলেন্স", back: "ambulance"},
+  { front: "ভাঙ্গা যাওয়া", back: "to break"},
+  { front: "ঠিকানা", back: "address"},
+  ],
 };
 export default mango;
