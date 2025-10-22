@@ -203,6 +203,14 @@ const verbs = {
       front: "যাওয়া past perf.",
       back: "গিয়েছিলাম/গেছিলাম\nগিয়েছিলি/গেছিলি\nগিয়েছিলে/গেছিলে\nগিয়েছিলেন/গেছিলেন\nগিয়েছিল/গেছিল",
     },
+
+    { front: "শোনা participles", back: "শুনে\nশুনতে\nশুনলে" },
+    { front: "থাকা participles", back: "থেকে\nথাকতে\nথাকলে" },
+    { front: "হওয়া participles", back: "হয়ে\nহতে\nহলে" },
+    { front: "খাওয়া participles", back: "খেয়ে\nখেতে\nখেলে" },
+    { front: "চাওয়া participles", back: "চেয়ে\nচাইতে\nচাইলে" },
+    { front: "শেখানো participles", back: "শিখিয়ে\nশেখাতে\nশেখালে" },
+    { front: "কামড়ানো participles", back: "কামড়িয়ে/তামড়ে\nকামড়াতে\nকামড়ালে" },
   ],
   "verb endings": [
     { front: "simple present", back: "-ই\n-ইস\n-∅\n-এন\n-এ" },
